@@ -1,0 +1,14 @@
+org\mythofy\mailplugin\FavoriteAddStep.class
+org\mythofy\mailplugin\MailPlugin.class
+org\mythofy\mailplugin\GiftSendStep.class
+org\mythofy\mailplugin\MailManager$1.class
+org\mythofy\mailplugin\MailManager.class
+org\mythofy\mailplugin\MailPlugin$5.class
+org\mythofy\mailplugin\MailPlugin$1.class
+org\mythofy\mailplugin\listeners\MailGuiListener.class
+org\mythofy\mailplugin\MailSendStep.class
+org\mythofy\mailplugin\MailPlugin$2.class
+org\mythofy\mailplugin\MailPlugin$3.class
+org\mythofy\mailplugin\MailPlugin$4.class
+org\mythofy\mailplugin\listeners\ChatListener.class
+org\mythofy\mailplugin\commands\MailOpenCommand.class
